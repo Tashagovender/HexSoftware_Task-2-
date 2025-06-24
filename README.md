@@ -1,2 +1,2 @@
-# HexSoftware_Task-2-
-HexSoftware Android Application task 2
+# HexSoftware_Task2
+
